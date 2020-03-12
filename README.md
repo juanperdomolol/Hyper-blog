@@ -19,4 +19,3 @@ En este curso he aprendido a manejar git y github, a manejar las ramas, a hacer 
 - Ignorar archivos o carpetas con .gitignore
 - Mejorar mi Readme
 - Configurar mi llave privada y publica 
-- felicitaciones  a mi
